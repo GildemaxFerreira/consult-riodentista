@@ -1,0 +1,59 @@
+h1 {
+  text-align: center;
+}
+
+.paragrafo {
+  text-align: center;
+}
+
+.menu {
+  align-items: center;
+  justify-content: center;
+  padding: 30px 35px;
+  box-shadow: 0 0.2rem 0.7rem #010000;
+  width: 95%;
+  background-color: rgb(5, 5, 5);
+ 
+}
+
+.menu :hover {
+  display: contents;
+
+}
+
+.mencolor {
+  font-size: x-large;
+  justify-content: end;
+}
+
+.cordeletra {
+  color: white;
+}
+
+.conteudo {
+  display: block;
+  height: 600px;
+  margin: 10px;
+  padding: 5px;
+  background-color: rgb(203, 208, 208);
+  border: 2px solid black;
+  text-align: left;
+  column-count: 2;
+  column-gap: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card {
+  text-align: center;
+  display: block;
+  height: 600px;
+  margin: 10px;
+  padding: 5px;
+  background-color: rgb(203, 208, 208);
+  border: 1px solid black;
+}
+
+.rodape {
+  text-align: center;
+}
+
